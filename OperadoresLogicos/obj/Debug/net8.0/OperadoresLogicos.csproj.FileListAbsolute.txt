@@ -1,0 +1,14 @@
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.exe
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.deps.json
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.runtimeconfig.json
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.dll
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.pdb
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.dll
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\refint\OperadoresLogicos.dll
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.pdb
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.genruntimeconfig.cache
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projetos\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\ref\OperadoresLogicos.dll
